@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main3 {
+public class Main {
 
 	private static List<Student> studentList;
 	static Scanner scanner;
